@@ -1,6 +1,5 @@
 ## README.md
 
-```markdown
 # The Admin Dashboard
 
 A modern and clean admin dashboard built with **HTML** and **Tailwind CSS**, featuring a sidebar navigation, project management cards, announcements panel, and a responsive layout.
