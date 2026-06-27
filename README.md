@@ -140,7 +140,3 @@ This project is open source and available under the [MIT License](LICENSE).
 
 - GitHub: [Kazumi500](https://github.com/Kazumi500)
 ```
-
----
-
-> **Catatan:** Ganti link `assets/images/preview.png` dengan screenshot asli dashboard Anda jika ada. Kalau belum ada screenshot, hapus baris `![Dashboard Preview](...)` saja.
